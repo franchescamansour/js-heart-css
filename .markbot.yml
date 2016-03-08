@@ -22,6 +22,3 @@ js:
       - 'removeClass\('
       - 'show\('
 
-screenshots:
-  - path: "index.html"
-    sizes: [320]
